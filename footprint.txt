@@ -1,0 +1,3 @@
+Semua Cap: Capacitor_SMD:C_0805_2021Metric
+Crystal: Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm
+Resistor: Resistor_SMD:R_0805_2021Metric
